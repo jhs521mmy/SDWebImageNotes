@@ -1,0 +1,22 @@
+{
+  "name": "CommonTools",
+  "version": "1.0",
+  "summary": "CommonTools工具类",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://gitee.com/linfeifei123",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "linfeifei123": "2973041709@qq.com"
+  },
+  "source": {
+    "git": "https://gitee.com/linfeifei123/CommonTools.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CommonTools/Classes/**/*"
+}
